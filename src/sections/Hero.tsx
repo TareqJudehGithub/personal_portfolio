@@ -146,7 +146,7 @@ export const Hero = () => {
 							<div className="relative glass rounded-3xl p-2 glow-border">
 								<img
 									className="w-full aspect-4/5 object-cover rounded-2xl"
-									src="/profile_image.png"
+									src="/prof_image_1.png"
 									alt="Tareq Judeh image"
 								/>
 								{/* Floating Badge*/}
