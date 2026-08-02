@@ -121,7 +121,7 @@ const projects: ProjectsType[] = [
 		title: "Winter Adventures",
 		description:
 			"A full-stack e-commerce application built with ASP.NET Core Web API, React, Redux Toolkit, and RTK Query, featuring product browsing, account creation, checkout, order placement, and admin tools for managing inventory and product details.",
-		image: "/projects/project6.png",
+		image: "/projects/winter_adventures.png",
 		tags: [
 			"ASP.NET Core Web API",
 			"ASP.NET Core Identity",
@@ -147,8 +147,8 @@ const projects: ProjectsType[] = [
 			"A beautiful, responsive and modern portfolio using React, Typescript, and Tailwind CSS. Built this portfolio project with a tutorial as a starting point and expanded it with my own features and design direction.",
 		image: "/projects/project2.png",
 		tags: ["React", "TypeScript", "Tailwind CSS"],
-		link: "https://frosty-label-aqe2hgbrfucfhdhc.francecentral-01.azurewebsites.net/",
-		gitHub: "https://github.com/TareqJudehGithub/Restore",
+		link: "",
+		gitHub: "",
 	},
 ];
 
