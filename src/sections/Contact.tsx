@@ -145,6 +145,7 @@ export const Contact = () => {
 									className="w-full px-4 py-3 bg-surface rounded-xl border border-border focus:border-primary focus:ring-1 focus:ring-primary outline-none transition-all"
 									id="email"
 									type="email"
+									required
 									pattern="[^@\s]+@[^@\s]+\.[a-zA-Z]{3}"
 									placeholder="Leave your Email address if you like"
 									value={formData.email}
