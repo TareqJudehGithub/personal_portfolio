@@ -30,9 +30,9 @@ export const Experience = () => {
 						className="text-muted-foreground
            animate-fade-in animation-delay-200"
 					>
-						I’m a self-taught fullstack web developer growing through real
-						projects, continuous learning, and a strong focus on building
-						responsive, secure, and user-friendly web applications.
+						I’m a web developer growing through real projects, continuous
+						learning, and a strong focus on building responsive, secure, and
+						user-friendly web applications.
 					</p>
 				</div>
 
@@ -99,7 +99,7 @@ export default Experience;
 const experience: ExperienceType[] = [
 	{
 		period: "March 2025 - Present",
-		role: "Self-Taught Fullstack Web Developer",
+		role: "Fullstack Web Developer (Independent / Project-Based)",
 		company: "",
 		description:
 			"Building and improving web applications through self-directed learning, using ASP.NET Core Web API and React.js to create responsive, user-friendly solutions. I also work on secure application practices, database design, and deployment workflows while strengthening my skills in modern fullstack development.",
